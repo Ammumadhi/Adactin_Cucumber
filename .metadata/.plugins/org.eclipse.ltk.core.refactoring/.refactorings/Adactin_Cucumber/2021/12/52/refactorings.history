@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.adactin.runner.package-info.java&apos; to &apos;TestRunner.java&apos;&#x0D;&#x0A;- Original project: &apos;Adactin_Cucumber&apos;&#x0D;&#x0A;- Original element: &apos;com.adactin.runner.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.adactin.runner.TestRunner.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.adactin.runner{package-info.java" name="TestRunner.java" references="false" stamp="1639919639592" version="1.0"/>
+</session>

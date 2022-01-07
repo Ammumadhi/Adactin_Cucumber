@@ -1,0 +1,9 @@
+package com.adactin.helper;
+
+public class File_Reader_Manager {
+	
+	public static void getInstanceCR() {
+	Configuration_Reader	cr = new Configuration_Reader();
+	}
+
+}

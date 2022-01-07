@@ -1,0 +1,16 @@
+package com.org.java;
+
+public class Alert {
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\AKannan\\eclipse-workspace\\Selenium\\driver\\chromedriver.exe");
+		
+	}
+
+	}
+		
+		
+			
+		}
+
+

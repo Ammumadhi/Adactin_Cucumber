@@ -1,0 +1,15 @@
+package com.adactin.helper;
+
+import java.io.File;
+import java.io.FileInputStream;
+
+public class Configuration_Reader {
+
+	
+	public Configuration_Reader() {
+	File f  = new File("C:\\Users\\AKannan\\eclipse-workspace\\Adactin_Cucumber1\\src\\test\\java\\com\\adactin\\properties\\Configuration.properties");
+	
+	FileInputStream
+	
+	}
+}
